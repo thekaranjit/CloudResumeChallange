@@ -10,3 +10,7 @@
 
 # Do not ignore the main Terraform state file
 !*.tfstate
+
+# Ignore node_modules directories
+node_modules/
+dist/
